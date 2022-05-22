@@ -11,4 +11,4 @@
 [Test 9 - Base 64 QR](9/solution-9.md)  
 [Test 10 - Range Power](10/solution-10.md)  
 [Test 11 - 57 or 75](11/solution-11.md)  
-Thank you to the Odoo team for preparing this enjoyable challenge.
+Thank you to the Odoo team for this enjoyable challenge.
